@@ -1,0 +1,26 @@
+Appointment-Management-System-Details
+The Hair Salon requires that the appointment management system track the following information for each appointment: • Client name
+
+• Client phone number
+
+• Type of appointment: 0. Available
+
+Mens cut $40
+Ladies cut $60
+Mens Colouring $40
+Ladies Colouring $80
+• Day of week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+
+• Start time of appointment (e.g. 9 AM)
+
+Note: all appointments are one hour long. The appointment management system needs to provide the following functionality:
+
+• create a one-week calendar of available appointments for Monday - Saturday, 9 AM – 4 PM daily (last appointment is 4-5 PM)
+
+• allow the user to optionally load previously booked appointments into the week’s calendar
+
+• allow the user to select and perform any of the following menu functions (continuously until the user chooses to exit the system): o 1) Schedule an appointment o 2) Find appointment by name o 3) Print calendar for a specific day o 4) Cancel an appointment o 5) Change an appointment o 6) Calculate total fees for a day o 7) Calculate total weekly fees o 9) Exit the system
+
+• allow the user to optionally save all scheduled appointments to a file
+
+A senior software developer has already done some design work on the Appointment class as well as the core functions required for the appointment management module. Please refer to the detailed information in the following two sections as you complete both programming parts of this project.
